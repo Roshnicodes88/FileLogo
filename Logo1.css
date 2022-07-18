@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    position: absolute;
+    top: 20%;
+   left: 32%;
+    width: 420px;
+    height: 420px;
+    background:orange;
+    opacity: 0.8;
+    overflow: hidden;
+    border-radius: 29%;
+}
+.box2{
+    position: absolute;
+    top: 25%;
+   left:70px;
+    width: 280px;
+    height: 220px;
+    background:white;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 2px 0 pink,0 3px 4px darkgoldenrod;
+}
+.box1{
+    position: absolute;
+    top: 65px;
+   left:70px;
+    width: 120px;
+    height: 50px;
+    background:brown;
+    opacity: 0.6;
+    overflow: hidden;
+   border-radius: 15px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color:darkorchid;
+}
